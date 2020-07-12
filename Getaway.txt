@@ -1,0 +1,73 @@
+Day 1:
+
+	> Start Earliest from Bengaluru, max by 11 morning
+	
+		- Bengaluru to Mysore (4 hours Journey)
+			
+		Places we will visit:
+		
+			* Mysore palace
+			* Chamundi Temple
+			* Brindavanam Gardens
+		
+		
+		^ Night stay at Mysore
+	
+Day 2:
+
+	> Start Earliest from Mysore
+		
+		- Mysore to bylakuppe (2 hours Journey)
+		
+			Places we will visit:
+			
+				*Namdroling Monastery
+	
+		-bylakuppe to Dubare (45 minutes)	
+		
+		
+			Places we will visit:
+			
+				*Dubare Elephant Camp
+		
+		- Dubare elephant camp to Nisargadhama (30 minutes)
+			
+			Places we will visit:	
+				
+				* Forest park
+			
+		- Nisargadhama to Coorg (45 minutes)
+		
+			Places we will visit:
+			
+				* Raja Seat
+			
+		^ Night Stay at Coorg
+		
+Day 3:
+	
+		Places we will visit:
+		
+			*Coorg to Mandalpetti ( 1 hour)
+			*Mandalpetti to Abbey Falls ( 15 minutes )
+			* Abbey Falls to TalaKaveri (1 and half hour)
+			*Talakaveri to Bhagamandala(Tri River Point) (15 minutes)
+		
+		
+		Chalo Mangalore (3 hours)
+		
+		^ Night Stay at Mangalore
+		
+	
+Day 4:
+	
+	- Beeeeeaaachhh
+		
+	Tata to Mangalore	
+	
+	
+	
+Map 1 : https://www.google.com/maps/dir/Bangalore,+Karnataka/Mysore,+Karnataka/Namdroling+Monastery+Golden+Temple,+Bylakuppe,+Karnataka/Dubare+Elephant+Camp,+Nanjarayapatna,+Karnataka/Nisargadhama+deer+park,+Baichanalli,+Karnataka/Coorg,+Karnataka/Raja's+Seat,+Stuart+Hill,+Madikeri,+Karnataka/Coorg,+Karnataka/Mandalpatti,+Hammiyala,+Karnataka/Abbey+Falls+Madikeri,+Abbey+Falls+Rd,+Hebbettageri,+Karnataka+571201/@12.6345581,76.0869642,9z/data=!3m1!4b1!4m62!4m61!1m5!1m1!1s0x3bae1670c9b44e6d:0xf8dfc3e8517e4fe0!2m2!1d77.5945627!2d12.9715987!1m5!1m1!1s0x3baf70381d572ef9:0x2b89ece8c0f8396d!2m2!1d76.6393805!2d12.2958104!1m5!1m1!1s0x3ba5a760db95df17:0xf81bb0392f364ea7!2m2!1d75.9665498!2d12.4306948!1m5!1m1!1s0x3ba5a6213b0cc98d:0x40de9c04d7600912!2m2!1d75.9054101!2d12.370573!1m5!1m1!1s0x3ba5082f40000001:0x23b5ee8b0b500ae7!2m2!1d75.9373089!2d12.446196!1m5!1m1!1s0x3ba50075627a7fff:0xaf8a66ea4651c1a6!2m2!1d75.7381856!2d12.4244205!1m5!1m1!1s0x3ba5aa988443072d:0xb76c80aaf1f5260c!2m2!1d75.7369566!2d12.4141582!1m5!1m1!1s0x3ba50075627a7fff:0xaf8a66ea4651c1a6!2m2!1d75.7381856!2d12.4244205!1m5!1m1!1s0x3ba4fd9af00bd6e7:0x955573606915d872!2m2!1d75.7000065!2d12.5463112!1m5!1m1!1s0x3ba5ac0000000001:0x63626c39067b8931!2m2!1d75.7166395!2d12.4580576!3e0
+
+Map 2: https://www.google.com/maps/dir/Tala+Kaveri,+Karnataka/Bhagamandala,+Karnataka/Coorg,+Karnataka/Mangalore,+Karnataka/@12.6329019,75.0139255,10z/data=!3m1!4b1!4m26!4m25!1m5!1m1!1s0x3ba4584332ac11c7:0x623bac3828517882!2m2!1d75.4941839!2d12.3835908!1m5!1m1!1s0x3ba4582639386851:0x361cc2d0093889b5!2m2!1d75.5286981!2d12.3865503!1m5!1m1!1s0x3ba50075627a7fff:0xaf8a66ea4651c1a6!2m2!1d75.7381856!2d12.4244205!1m5!1m1!1s0x3ba35a4c37bf488f:0x827bbc7a74fcfe64!2m2!1d74.8559568!2d12.9141417!3e0
+
